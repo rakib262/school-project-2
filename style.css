@@ -1,0 +1,59 @@
+.logo{
+    width: 168px;
+    height:52px;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.btn{
+    border-radius: 30px;
+    padding: 8px 20px;
+}
+.banner{
+    width: 578px;
+    height: 345px;
+}
+h1{
+    font-size: 700;
+}
+p{
+    color: dimgray;
+}
+.banner-bg{
+    background-color:  #F0FFF0;
+}
+.icon-resize{
+    width: 66px;
+    height: 85px;
+}
+.book{
+    width: 270px;
+    height: 270px;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+}
+#students{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px lightgray; 
+}
+.card{
+    border: none;
+    box-shadow: 8px 8px 15px lightgray;
+    border-radius: 15px;
+}
+.man{
+    width: 120px;
+    height: 120px;
+}
+
+.footer{   
+    padding: 40px 20px;
+}
+.white{
+    color: white;
+}
+.footer-bg{
+    background-color: #282531;
+}
